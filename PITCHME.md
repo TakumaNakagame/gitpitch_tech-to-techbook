@@ -29,12 +29,35 @@
 
 ### 話題の技術同人誌
 
-| TITLE | Author |
-| DNS/AWSをはじめよう | mochikoAsTech |
-| Pragmatic Terraform for AWS | KOS-MOS |
-| りあクト！ | くるみ割り書房 |
-| 完全SIer脱出マニュアル | しがないラジオ |
-| プリンを守る技術 | aNo研 |
+<table>
+	<tr>
+        <th> TITLE </th>
+        <th> Author </th>
+	</tr>
+	<tr>
+		<td> DNS/AWSをはじめよう </td>
+		<td> mochikoAsTech </td>
+	</tr>
+	<tr>
+		<td> Pragmatic Terraform for AWS </td>
+		<td> KOS-MOS </td>
+	</tr>
+	<tr>
+		<td> りあクト！ </td>
+		<td> くるみ割り書房 </td>
+	</tr>
+	<tr>
+		<td> 完全SIer脱出マニュアル </td>
+		<td> しがないラジオ </td>
+	</tr>
+	<tr>
+		<td> プリンを守る技術 </td>
+		<td> aNo研 </td>
+	</tr>
+	<tr>
+		<td></td>
+	</tr>
+</table>
 
 ---
 
@@ -129,7 +152,7 @@ Markdownライクなプレーンテキストフォーマット
     - DLC(120部)： 10,000円
 - イベント関連
   - サークル参加費： 7,000円
-    - 備品関連： 10,000円
+  - 備品関連： 10,000円
 - 雑費
   - カフェ代： 10,000円
   - 人件費： **0円**
