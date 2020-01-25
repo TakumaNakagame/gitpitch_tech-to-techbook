@@ -136,7 +136,7 @@
 - Re:VIEW + GitHub  
 Markdownライクなプレーンテキストフォーマット
 - Microsoft Word
-スタイルや日本語校正が協力
+スタイルや日本語校正が強力
 
 ---
 
